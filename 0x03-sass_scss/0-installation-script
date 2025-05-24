@@ -1,0 +1,9 @@
+# Created project directory
+mkdir 0x03-sass_scss
+cd 0x03-sass_scss
+
+# Initialized Node.js project
+npm init -y
+
+# Installed latest version of sass
+npm install sass
